@@ -3,10 +3,7 @@ export const themes = {
     title_color: "ffffff",
     icon_color: "4c71f2",
     text_color: "ffffff",
-    bg_color: {
-            "0" : "ddd6f3",
-            "100" : "faaca8"
-        },
+    bg_color: "ddd6f3",
     border_color: "e4e2e2",
   },
   default: {
