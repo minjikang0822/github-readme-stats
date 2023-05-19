@@ -1,4 +1,14 @@
 export const themes = {
+  minji: {
+    title_color: "ffffff",
+    icon_color: "4c71f2",
+    text_color: "ffffff",
+    bg_color: {
+            "0" : "ddd6f3",
+            "100" : "faaca8"
+        },
+    border_color: "e4e2e2",
+  },
   default: {
     title_color: "2f80ed",
     icon_color: "4c71f2",
